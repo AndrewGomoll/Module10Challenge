@@ -17,4 +17,4 @@ SO THAT I don't have to pay a graphic designer
 "examples\squareLogo.svg"
 "examples\triangleLogo.svg"
 "examples\testSuccessful.png"
-
+https://drive.google.com/file/d/1HVKDicrsA_FizkZbkKwe44mnAeeqvI5k/view
